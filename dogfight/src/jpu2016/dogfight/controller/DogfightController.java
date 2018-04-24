@@ -16,5 +16,8 @@ public class DogfightController {
      */
     private int TIME_SLEEP = 30;
     
+    public void DogfightController ( dogfightModel IDogfightModel){
+        
+    }
     
 }
