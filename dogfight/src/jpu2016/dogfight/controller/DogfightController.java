@@ -20,4 +20,9 @@ public class DogfightController {
         
     }
     
+    public void orderPerform( viewSystem IViewSystem){
+        
+    }
+    
+    
 }
